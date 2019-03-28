@@ -1,5 +1,5 @@
 # gradle-multi-module-sample
-Sample code of a 694 student learning gradle
+Sample code for a 694 student learning gradle (shown it works in three releases of gradle)
 
 Key points:
 * settings.gradle in the parent project lists the (one) module to be built
